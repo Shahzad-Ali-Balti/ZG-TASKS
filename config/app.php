@@ -12,7 +12,7 @@ return [
     | other UI elements where an application name needs to be displayed.
     |
     */
-    'ngrok_Link' => env ('NGROK_LINK','https://1b40-125-209-103-91.ngrok-free.app'),
+    'ngrok_Link' => env ('NGROK_LINK','https://2eae-125-209-103-91.ngrok-free.app'),
     'name' => env('APP_NAME', 'Laravel'),
 
     /*
